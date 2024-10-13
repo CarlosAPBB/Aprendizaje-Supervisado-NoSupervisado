@@ -49,12 +49,12 @@ Para ejecutar el proyecto, necesitarás las siguientes librerías:
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/CarlosAPBB/Aprendizaje-Supervisado-NoSupervisado.git
     ```
     
 2. Navega a la carpeta del proyecto:
     ```bash
-    cd tu-repo
+    cd Aprendizaje-Supervisado-NoSupervisado
     ```
     
 3. Instala los paquetes necesarios:
@@ -64,7 +64,7 @@ Para ejecutar el proyecto, necesitarás las siguientes librerías:
 
 ## Uso
 
-1. Abre el archivo `notebook.ipynb` en Jupyter Notebook o JupyterLab.
+1. Abre el archivo `actividad-3-y-4.ipynb` en Jupyter Notebook o JupyterLab.
 2. Ejecuta las celdas para:
    - Explorar el conjunto de datos.
    - Entrenar el modelo de regresión logística.
