@@ -21,7 +21,7 @@ Este proyecto explora un conjunto de datos nutricionales utilizando algoritmos d
 
 El conjunto de datos proviene de Kaggle y contiene 722 entradas con 37 columnas. Cada fila representa un alimento, y cada columna proporciona información nutricional detallada, como valor calórico, grasas, carbohidratos, proteínas, vitaminas, minerales, etc.
 
-Puedes acceder al conjunto de datos original [aquí](https://www.kaggle.com/datasets).
+Puedes acceder al conjunto de datos original [aquí](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset).
 
 ## Algoritmos Utilizados
 
