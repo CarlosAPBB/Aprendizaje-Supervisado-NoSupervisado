@@ -11,7 +11,6 @@ Este proyecto aplica algoritmos de **Aprendizaje Supervisado** y **Aprendizaje N
 5. [Instalación](#instalación)
 6. [Uso](#uso)
 7. [Resultados](#resultados)
-8. [Licencia](#licencia)
 
 ## Descripción del Proyecto
 
