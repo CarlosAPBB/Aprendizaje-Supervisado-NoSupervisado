@@ -51,3 +51,27 @@ Para ejecutar el proyecto, necesitarás las siguientes librerías:
     ```bash
     git clone https://github.com/tu-usuario/tu-repo.git
     ```
+    
+2. Navega a la carpeta del proyecto:
+    ```bash
+    cd tu-repo
+    ```
+    
+3. Instala los paquetes necesarios:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Uso
+
+1. Abre el archivo `notebook.ipynb` en Jupyter Notebook o JupyterLab.
+2. Ejecuta las celdas para:
+   - Explorar el conjunto de datos.
+   - Entrenar el modelo de regresión logística.
+   - Aplicar el algoritmo K-means y visualizar los clusters.
+3. Modifica el código según tus necesidades.
+
+## Resultados
+
+- **Aprendizaje Supervisado**: Utilizando **Logistic Regression**, se logró predecir con precisión la categoría de los alimentos según su contenido en grasas.
+- **Aprendizaje No Supervisado**: Con **K-means**, se observaron agrupaciones de alimentos en tres clusters, lo que permitió identificar patrones de similitud entre alimentos sin necesidad de etiquetas previas.
